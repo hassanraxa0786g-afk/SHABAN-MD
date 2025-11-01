@@ -33,9 +33,9 @@ CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 // chose custom react emojis by yourself  
-OWNER_NUMBER: process.env.OWNER_NUMBER || "923303788282",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "923480612714",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "𝐌𝐑 𝐒𝐇𝐀𝐁𝐀𝐍",
+OWNER_NAME: process.env.OWNER_NAME || "RAZA",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Mʀ Sʜᴀʙᴀɴ*",
 // add bot owner name    
